@@ -28,7 +28,7 @@ If you have done this in a previous exercise, you may be able to skip some steps
 
 * Add handleLink as a prop to the Header component in App.js. Then, go to the Header component [Unsolved/src/components/Header/Header.js](Unsolved/src/components/Header/Header.js) and add props as an argument and pass all the props to the Nav using the spread operator.
 
-* Next, go to the Nav component [Unsolved/src/components/Nav/Nav.js](Unsolved/src/components/Nav/Nav.js) and add props to the argument. Then, add each coresponding prop to each TODO section as specified.
+* Next, go to the Nav component [Unsolved/src/components/Nav/Nav.js](Unsolved/src/components/Nav/Nav.js) and add props to the argument. Then, add each corresponding prop to each TODO section as specified.
 
 * Then, go back to [Unsolved/src/App.js](Unsolved/src/App.js) and add handleLink() as a prop to all Card components.
 
